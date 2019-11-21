@@ -1,0 +1,245 @@
+{
+    "version": "1.1.105",
+    "publisher": "nicola-granata",
+    "license": "MIT",
+    "schema": "vscode://schemas/color-theme",
+    "author": {
+        "name": "Nicola Granata",
+        "email": "vscode.extensions@daemoncms.com",
+        "url": "https://github.com/nicolagranata"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "displayName": "Zenburn In Grays Theme",
+    "icon": "_gfx/zenburn-in-grays-icon.png",
+    "description": "Theme with Zenburn TokenColors on Dark Backgrounds (Cold / Deep Sea / EclipseDS / Flat / Insomnia / Low Blue / Midnight / Nadir / Nirvana / Warm).",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicolagranata/vscode-theme-zenburn-in-grays.git"
+    },
+    "keywords": [
+        "zenburn",
+        "zen mode",
+        "low contrast",
+        "low blue light"
+    ],
+    "name": "zenburn-in-grays",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zenburn In Grays - Cold - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-cold-asphalt",
+                "path": "./themes/zenburn-in-grays-cold-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Cold - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-cold-eggplant",
+                "path": "./themes/zenburn-in-grays-cold-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Cold - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-cold-lazy",
+                "path": "./themes/zenburn-in-grays-cold-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Cold - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-cold-sugar-paper",
+                "path": "./themes/zenburn-in-grays-cold-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Deep Sea - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-deepsea-asphalt",
+                "path": "./themes/zenburn-in-grays-deepsea-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Deep Sea - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-deepsea-eggplant",
+                "path": "./themes/zenburn-in-grays-deepsea-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Deep Sea - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-deepsea-lazy",
+                "path": "./themes/zenburn-in-grays-deepsea-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Deep Sea - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-deepsea-sugar-paper",
+                "path": "./themes/zenburn-in-grays-deepsea-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - EclipseDS - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-eclipseds-asphalt",
+                "path": "./themes/zenburn-in-grays-eclipseds-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - EclipseDS - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-eclipseds-eggplant",
+                "path": "./themes/zenburn-in-grays-eclipseds-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - EclipseDS - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-eclipseds-lazy",
+                "path": "./themes/zenburn-in-grays-eclipseds-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - EclipseDS - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-eclipseds-sugar-paper",
+                "path": "./themes/zenburn-in-grays-eclipseds-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Flat - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-flat-asphalt",
+                "path": "./themes/zenburn-in-grays-flat-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Flat - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-flat-eggplant",
+                "path": "./themes/zenburn-in-grays-flat-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Flat - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-flat-lazy",
+                "path": "./themes/zenburn-in-grays-flat-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Flat - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-flat-sugar-paper",
+                "path": "./themes/zenburn-in-grays-flat-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Insomnia - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-insomnia-asphalt",
+                "path": "./themes/zenburn-in-grays-insomnia-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Insomnia - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-insomnia-eggplant",
+                "path": "./themes/zenburn-in-grays-insomnia-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Insomnia - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-insomnia-lazy",
+                "path": "./themes/zenburn-in-grays-insomnia-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Insomnia - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-insomnia-sugar-paper",
+                "path": "./themes/zenburn-in-grays-insomnia-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Low Blue - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-lowblue-asphalt",
+                "path": "./themes/zenburn-in-grays-lowblue-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Low Blue - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-lowblue-lazy",
+                "path": "./themes/zenburn-in-grays-lowblue-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Midnight - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-midnight-sugar-paper",
+                "path": "./themes/zenburn-in-grays-midnight-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nadir - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nadir-asphalt",
+                "path": "./themes/zenburn-in-grays-nadir-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nadir - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nadir-eggplant",
+                "path": "./themes/zenburn-in-grays-nadir-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nadir - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nadir-lazy",
+                "path": "./themes/zenburn-in-grays-nadir-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nadir - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nadir-sugar-paper",
+                "path": "./themes/zenburn-in-grays-nadir-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nirvana - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nirvana-asphalt",
+                "path": "./themes/zenburn-in-grays-nirvana-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nirvana - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nirvana-eggplant",
+                "path": "./themes/zenburn-in-grays-nirvana-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nirvana - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nirvana-lazy",
+                "path": "./themes/zenburn-in-grays-nirvana-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Nirvana - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-nirvana-sugar-paper",
+                "path": "./themes/zenburn-in-grays-nirvana-sugar-paper-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Warm - Asphalt",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-warm-asphalt",
+                "path": "./themes/zenburn-in-grays-warm-asphalt-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Warm - Eggplant",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-warm-eggplant",
+                "path": "./themes/zenburn-in-grays-warm-eggplant-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Warm - Lazy",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-warm-lazy",
+                "path": "./themes/zenburn-in-grays-warm-lazy-color-theme.json"
+            },
+            {
+                "label": "Zenburn In Grays - Warm - Sugar Paper",
+                "uiTheme": "vs-dark",
+                "theme_id": "zenburn-in-grays-warm-sugar-paper",
+                "path": "./themes/zenburn-in-grays-warm-sugar-paper-color-theme.json"
+            }
+        ]
+    }
+}
